@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **NekoJacky/NekoJacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoJacky&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/NekoJacky/count.svg)
