@@ -32,10 +32,6 @@ Here are some ideas to get you started:
 
 ![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoJacky&show_icons=true)
 
-#### Visitor count
-
-![Visitor Count](https://profile-counter.glitch.me/NekoJacky/count.svg)
-
 #### Languages I use
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoJacky&layout=compact)
