@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 #### I'm learning... 
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![CS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![CS](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
 #### Jacky's Github stats
 
 ![Jacky's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoJacky&show_icons=true)
