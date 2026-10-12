@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![AMD5600H](https://img.shields.io/badge/AMD-Ryzen_5_5600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GTX1650Laptop](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![AMD9600X](https://img.shields.io/badge/AMD-Ryzen_5_9600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RTX5060](https://img.shields.io/badge/NVIDIA-RTX5060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 #### I'm learning... 
 
